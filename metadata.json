@@ -1,0 +1,5 @@
+{
+  "name": "LABirintar Feedback Form",
+  "description": "A web application to collect feedback on LABirintar learning experiences at Gara School, specifically for 'Board Games' and 'Circus' activities. Users can rate the experience on a scale of 0-10 and provide detailed written feedback.",
+  "requestFramePermissions": []
+}
